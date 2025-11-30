@@ -1,0 +1,13 @@
+{
+  "model_metrics": {
+    "R2": 0.08875403067113141,
+    "MAE": 14546.084923279499,
+    "RMSE": 21798.815114170342
+  },
+  "stat_tests": {
+    "t_test": "Not enough data",
+    "aggregated_ttest": "Not enough aggregated data",
+    "mann_whitney": "Not enough samples"
+  },
+  "generated_on": "2025-11-30T10:42:53.172279"
+}
